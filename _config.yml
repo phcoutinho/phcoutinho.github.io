@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: [Pedro H. S. Coutinho]
 description: []
+
+markdown: keandown
+theme: jekyll-theme-minimal
