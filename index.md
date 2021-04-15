@@ -1,8 +1,26 @@
 ## Pedro H. S. Coutinho
 
-You can use the [editor on GitHub](https://github.com/phcoutinho/phcoutinho.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[//]: # You can use the [editor on GitHub](https://github.com/phcoutinho/phcoutinho.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[//]: # Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Contact: phcoutinho@ufmg.br
+
+### Curriculum Vitae:
+
+[CV Lattes](http://www.google.com/url?q=http%3A%2F%2Flattes.cnpq.br%2F5272302377513795&sa=D&sntz=1&usg=AFQjCNFde5T38lrZ-8Ok5UiZL1tE7PKoOA)
+
+### Additional Information:
+
+[Google Scholar](https://scholar.google.com/citations?user=Dyc2PZUAAAAJ&hl=pt-BR#)
+
+[ResearchGate](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPedro-Henrique-Coutinho&sa=D&sntz=1&usg=AFQjCNFBbLeiTrWOrqpDnD_50gT-dfYnmw)
+
+[Publons](https://www.google.com/url?q=https%3A%2F%2Fpublons.com%2Fresearcher%2F1587344%2Fpedro-coutinho%2F&sa=D&sntz=1&usg=AFQjCNHdVVH6F8xuyrrXC_APRsgi9R1oRA)
+
+### Short Bio:
+I am Pedro H. S. Coutinho, a Ph.D. candidate working at the Graduate Program in Electrical Engineering (**PPGEE**) at the Federal University of Minas Gerais (**UFMG**) under the supervision of Prof. Reinaldo Palhares. I earned the degree of M.Sc. in Electrical Engineering at PPGEE/UFMG and the Bachelor's degree in Electrical Engineering at the State University of Santa Cruz (**UESC**). Currently, I am working on topics related to control systems theory and fuzzy logic systems.
+
 
 ### Markdown
 
