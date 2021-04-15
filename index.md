@@ -1,17 +1,26 @@
-## Pedro H. S. Coutinho
+## Home Page
 
 [//]: # You can use the [editor on GitHub](https://github.com/phcoutinho/phcoutinho.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 [//]: # Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Short Bio:
+### Short Bio
 I am Pedro H. S. Coutinho, a Ph.D. candidate working at the Graduate Program in Electrical Engineering (**PPGEE**) at the Federal University of Minas Gerais (**UFMG**) under the supervision of Prof. Reinaldo Palhares. I earned the degree of M.Sc. in Electrical Engineering at PPGEE/UFMG and the Bachelor's degree in Electrical Engineering at the State University of Santa Cruz (**UESC**). Currently, I am working on topics related to control systems theory and fuzzy logic systems.
 
-### Curriculum Vitae:
-
+The full curriculum vitae is available at:
 [CV Lattes](http://www.google.com/url?q=http%3A%2F%2Flattes.cnpq.br%2F5272302377513795&sa=D&sntz=1&usg=AFQjCNFde5T38lrZ-8Ok5UiZL1tE7PKoOA)
 
-### Additional Information:
+## Research
+
+### Research Interests:
+
+- Robust and Nonlinear Control
+- Networked Control Systems
+- Fuzzy Logic Systems and Fuzzy Clustering
+- Robotics
+
+### Papers and Preprints: 
+The complete list of publications is available at:
 
 [Google Scholar](https://scholar.google.com/citations?user=Dyc2PZUAAAAJ&hl=pt-BR#)
 
@@ -19,7 +28,7 @@ I am Pedro H. S. Coutinho, a Ph.D. candidate working at the Graduate Program in 
 
 [Publons](https://www.google.com/url?q=https%3A%2F%2Fpublons.com%2Fresearcher%2F1587344%2Fpedro-coutinho%2F&sa=D&sntz=1&usg=AFQjCNHdVVH6F8xuyrrXC_APRsgi9R1oRA)
 
-### Contact Information
+## Contact Information
 
 **Email:** phcoutinho@ufmg.br
 
