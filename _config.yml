@@ -65,8 +65,7 @@ defaults:
 
 
 
-# theme: minima
-theme: github-light
+theme: minima
 
 plugins:
   - jekyll-paginate
