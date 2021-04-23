@@ -8,7 +8,7 @@ twitter_username: coutinhopedroh
 github_username: phcoutinho
 description:
 
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-paginate
