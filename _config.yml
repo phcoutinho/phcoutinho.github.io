@@ -1,15 +1,10 @@
 title: Pedro H. S. Coutinho
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+
 author:
-
-
-
 email: 
 twitter_username: coutinhopedroh
 github_username: phcoutinho
 description:
 
-theme: minima
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+theme: jekyll-theme-minimal
