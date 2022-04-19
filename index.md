@@ -4,9 +4,9 @@
 -->
 
 ### Short Bio
-I am Pedro H. S. Coutinho, a Ph.D. candidate working at the Graduate Program in Electrical Engineering (**PPGEE**) at the Federal University of Minas Gerais (**UFMG**) under the supervision of Prof. Reinaldo Palhares. I earned the degree of M.Sc. in Electrical Engineering at PPGEE/UFMG and the Bachelor's degree in Electrical Engineering at the State University of Santa Cruz (**UESC**). Currently, I am working on topics related to control systems theory and fuzzy logic systems.
+I am a Postdoctoral fellow at the D!FCOM Laboratory - Federal University of Minas Gerais (UFMG) under the supervision of Prof. Reinaldo Palhares. I earned the Ph.D. and MSc degrees in Electrical Engineering at UFMG and a Bachelor's degree in Electrical Engineering at the State University of Santa Cruz (UESC). Currently, I am working on topics related to control systems theory, networked systems, and fuzzy logic systems.
 
-The full curriculum vitae is available at:
+The full curriculum vitae in portuguese is available at:
 [CV Lattes](http://www.google.com/url?q=http%3A%2F%2Flattes.cnpq.br%2F5272302377513795&sa=D&sntz=1&usg=AFQjCNFde5T38lrZ-8Ok5UiZL1tE7PKoOA)
 
 ## Research
