@@ -3,4 +3,4 @@ layout: teaching_default
 title: LCA I
 ---
 
-### LCA I
+### Laboratório de CA
