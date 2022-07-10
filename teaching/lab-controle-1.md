@@ -1,6 +1,6 @@
 ---
 layout: teaching_default
-title: About
+title: LCA I
 ---
 
 ### LCA I
